@@ -6,7 +6,6 @@ Dask
 Dask is a flexible parallel computing library for analytics.  See
 documentation_ for more information.
 
-
 LICENSE
 -------
 
